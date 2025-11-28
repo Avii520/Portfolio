@@ -265,12 +265,12 @@ section{
     border: 3px solid rgb(49, 49, 49);
     border-radius: 0.8rem;
 
-    padding: 0.2rem 1.8rem 1rem;   /* ✅ reduced padding */
+    padding: 0.2rem 1.8rem 1rem;   
 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 1.2rem;            /* (optional) একটু কম gap */
+    gap: 1.2rem;            
     color: white;
     cursor: pointer;
     transition: 0.3s ease-in-out;
@@ -532,4 +532,5 @@ footer{
         gap: 5em;
         align-items: baseline;
       }
+
 }
